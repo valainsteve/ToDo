@@ -1,0 +1,246 @@
+gradlew.bat includes **simple** 0 times.
+
+src/main/resources/output.txt:5,45> src/main/resources/data/test.txt:2,5> very ****simple**** and extremely simple
+src/main/resources/output.txt:5,68> src/main/resources/data/test.txt:2,5> very **simple** and extremely **simple**
+src/main/resources/output.txt:6,44> src/main/resources/data/test.txt:2,26> very **simple** and extremely **simple**
+src/main/resources/output.txt:6,67> src/main/resources/data/test.txt:2,26> very simple and extremely ****simple****
+src/main/resources/output.txt:7,44> src/main/resources/data/test.txt includes ****simple**** 2 times.
+src/main/resources/output.txt:9,54> src/main/resources/data/subfolder/text.txt:1,4> asdf****simple****asdf
+src/main/resources/output.txt:10,54> src/main/resources/data/subfolder/text.txt includes ****simple**** 1 times.
+src/main/resources/output.txt:12,45> src/main/resources/data/empty.txt includes ****simple**** 0 times.
+src/main/resources/output.txt:14,41> src/main/resources/data/other.txt:2,0> ****simple****
+src/main/resources/output.txt:15,45> src/main/resources/data/other.txt includes ****simple**** 1 times.
+src/main/resources/output.txt:17,23> The project includes ****simple**** 4 times.
+src/main/resources/output.txt includes **simple** 11 times.
+
+src/main/resources/ignore.txt includes **simple** 0 times.
+
+src/main/resources/data/test.txt:2,5> very **simple** and extremely simple
+src/main/resources/data/test.txt:2,26> very simple and extremely **simple**
+src/main/resources/data/test.txt includes **simple** 2 times.
+
+src/main/resources/data/lib/input/test.txt:2,5> very **simple** and extremely simple
+src/main/resources/data/lib/input/test.txt:2,26> very simple and extremely **simple**
+src/main/resources/data/lib/input/test.txt includes **simple** 2 times.
+
+src/main/resources/data/lib/input/subfolder/text.txt:1,4> asdf**simple**asdf
+src/main/resources/data/lib/input/subfolder/text.txt includes **simple** 1 times.
+
+src/main/resources/data/lib/input/muh.xml:1,14> really really **simple** simple simple
+src/main/resources/data/lib/input/muh.xml:1,21> really really simple **simple** simple
+src/main/resources/data/lib/input/muh.xml:1,28> really really simple simple **simple**
+src/main/resources/data/lib/input/muh.xml includes **simple** 3 times.
+
+src/main/resources/data/lib/input/empty.txt includes **simple** 0 times.
+
+src/main/resources/data/lib/input/other.txt:2,0> **simple**
+src/main/resources/data/lib/input/other.txt includes **simple** 1 times.
+
+src/main/resources/data/subfolder/ignore/input/test.txt:2,5> very **simple** and extremely simple
+src/main/resources/data/subfolder/ignore/input/test.txt:2,26> very simple and extremely **simple**
+src/main/resources/data/subfolder/ignore/input/test.txt includes **simple** 2 times.
+
+src/main/resources/data/subfolder/ignore/input/subfolder/text.txt:1,4> asdf**simple**asdf
+src/main/resources/data/subfolder/ignore/input/subfolder/text.txt includes **simple** 1 times.
+
+src/main/resources/data/subfolder/ignore/input/muh.xml:1,14> really really **simple** simple simple
+src/main/resources/data/subfolder/ignore/input/muh.xml:1,21> really really simple **simple** simple
+src/main/resources/data/subfolder/ignore/input/muh.xml:1,28> really really simple simple **simple**
+src/main/resources/data/subfolder/ignore/input/muh.xml includes **simple** 3 times.
+
+src/main/resources/data/subfolder/ignore/input/empty.txt includes **simple** 0 times.
+
+src/main/resources/data/subfolder/ignore/input/other.txt:2,0> **simple**
+src/main/resources/data/subfolder/ignore/input/other.txt includes **simple** 1 times.
+
+src/main/resources/data/subfolder/text.txt:1,4> asdf**simple**asdf
+src/main/resources/data/subfolder/text.txt includes **simple** 1 times.
+
+src/main/resources/data/muh.xml:1,14> really really **simple** simple simple
+src/main/resources/data/muh.xml:1,21> really really simple **simple** simple
+src/main/resources/data/muh.xml:1,28> really really simple simple **simple**
+src/main/resources/data/muh.xml includes **simple** 3 times.
+
+src/main/resources/data/empty.txt includes **simple** 0 times.
+
+src/main/resources/data/other.txt:2,0> **simple**
+src/main/resources/data/other.txt includes **simple** 1 times.
+
+src/main/java/de/uniba/wiai/dsg/ajp/assignment1/util/Timer.java includes **simple** 0 times.
+
+src/main/java/de/uniba/wiai/dsg/ajp/assignment1/search/TokenFinder.java includes **simple** 0 times.
+
+src/main/java/de/uniba/wiai/dsg/ajp/assignment1/search/impl/SimpleTokenFinder.java includes **simple** 0 times.
+
+src/main/java/de/uniba/wiai/dsg/ajp/assignment1/search/TokenFinderException.java includes **simple** 0 times.
+
+src/main/java/de/uniba/wiai/dsg/ajp/assignment1/search/SearchTask.java includes **simple** 0 times.
+
+src/main/java/de/uniba/wiai/dsg/ajp/assignment1/Main.java:16,54> 		SearchTask searchTask = new SearchTask("", "", "", "**simple**", "src/main/resources/out.txt");
+src/main/java/de/uniba/wiai/dsg/ajp/assignment1/Main.java includes **simple** 1 times.
+
+.idea/misc.xml includes **simple** 0 times.
+
+.idea/vcs.xml includes **simple** 0 times.
+
+.idea/libraries-with-intellij-classes.xml includes **simple** 0 times.
+
+.idea/jarRepositories.xml includes **simple** 0 times.
+
+.idea/codeStyles/Project.xml includes **simple** 0 times.
+
+.idea/codeStyles/codeStyleConfig.xml includes **simple** 0 times.
+
+.idea/.gitignore includes **simple** 0 times.
+
+.idea/gradle.xml includes **simple** 0 times.
+
+.idea/workspace.xml:58,106>       <option name="PROGRAM_PARAMETERS" value="src/main/resources/data src/main/resources/ignore.txt .txt **simple** src/main/resources/output.txt" />
+.idea/workspace.xml includes **simple** 1 times.
+
+.idea/shelf/Uncommitted_changes_before_rebase_[Revert__gitignore_]/shelved.patch includes **simple** 0 times.
+
+.idea/.name includes **simple** 0 times.
+
+.idea/compiler.xml includes **simple** 0 times.
+
+.gradle/workspace-id.txt includes **simple** 0 times.
+
+gradlew includes **simple** 0 times.
+
+.git/FETCH_HEAD includes **simple** 0 times.
+
+.git/ORIG_HEAD includes **simple** 0 times.
+
+.git/refs/remotes/origin/master includes **simple** 0 times.
+
+.git/refs/remotes/origin/elias includes **simple** 0 times.
+
+.git/refs/remotes/origin/elias_assignment1 includes **simple** 0 times.
+
+.git/refs/remotes/origin/Murad includes **simple** 0 times.
+
+.git/refs/remotes/origin/HEAD includes **simple** 0 times.
+
+.git/refs/heads/master includes **simple** 0 times.
+
+.git/refs/heads/elias includes **simple** 0 times.
+
+.git/refs/heads/elias_assignment1 includes **simple** 0 times.
+
+.git/REBASE_HEAD includes **simple** 0 times.
+
+.git/hooks/push-to-checkout.sample includes **simple** 0 times.
+
+.git/hooks/prepare-commit-msg.sample includes **simple** 0 times.
+
+.git/hooks/pre-merge-commit.sample includes **simple** 0 times.
+
+.git/hooks/pre-rebase.sample:105,43>    it makes it easier to keep your history **simple**.
+.git/hooks/pre-rebase.sample includes **simple** 1 times.
+
+.git/hooks/pre-push.sample includes **simple** 0 times.
+
+.git/hooks/commit-msg.sample includes **simple** 0 times.
+
+.git/hooks/pre-receive.sample includes **simple** 0 times.
+
+.git/hooks/pre-applypatch.sample includes **simple** 0 times.
+
+.git/hooks/applypatch-msg.sample includes **simple** 0 times.
+
+.git/hooks/post-update.sample includes **simple** 0 times.
+
+.git/hooks/update.sample includes **simple** 0 times.
+
+.git/hooks/fsmonitor-watchman.sample includes **simple** 0 times.
+
+.git/hooks/pre-commit.sample includes **simple** 0 times.
+
+.git/config includes **simple** 0 times.
+
+.git/packed-refs includes **simple** 0 times.
+
+.git/description includes **simple** 0 times.
+
+.git/HEAD includes **simple** 0 times.
+
+.git/COMMIT_EDITMSG includes **simple** 0 times.
+
+build.gradle includes **simple** 0 times.
+
+.gitignore includes **simple** 0 times.
+
+build/tmp/compileJava/source-classes-mapping.txt includes **simple** 0 times.
+
+build/resources/main/output.txt:5,45> src/main/resources/data/test.txt:2,5> very ****simple**** and extremely simple
+build/resources/main/output.txt:5,68> src/main/resources/data/test.txt:2,5> very **simple** and extremely **simple**
+build/resources/main/output.txt:6,44> src/main/resources/data/test.txt:2,26> very **simple** and extremely **simple**
+build/resources/main/output.txt:6,67> src/main/resources/data/test.txt:2,26> very simple and extremely ****simple****
+build/resources/main/output.txt:7,44> src/main/resources/data/test.txt includes ****simple**** 2 times.
+build/resources/main/output.txt:9,54> src/main/resources/data/subfolder/text.txt:1,4> asdf****simple****asdf
+build/resources/main/output.txt:10,54> src/main/resources/data/subfolder/text.txt includes ****simple**** 1 times.
+build/resources/main/output.txt:12,45> src/main/resources/data/empty.txt includes ****simple**** 0 times.
+build/resources/main/output.txt:14,41> src/main/resources/data/other.txt:2,0> ****simple****
+build/resources/main/output.txt:15,45> src/main/resources/data/other.txt includes ****simple**** 1 times.
+build/resources/main/output.txt:17,23> The project includes ****simple**** 4 times.
+build/resources/main/output.txt includes **simple** 11 times.
+
+build/resources/main/ignore.txt includes **simple** 0 times.
+
+build/resources/main/data/test.txt:2,5> very **simple** and extremely simple
+build/resources/main/data/test.txt:2,26> very simple and extremely **simple**
+build/resources/main/data/test.txt includes **simple** 2 times.
+
+build/resources/main/data/lib/input/test.txt:2,5> very **simple** and extremely simple
+build/resources/main/data/lib/input/test.txt:2,26> very simple and extremely **simple**
+build/resources/main/data/lib/input/test.txt includes **simple** 2 times.
+
+build/resources/main/data/lib/input/subfolder/text.txt:1,4> asdf**simple**asdf
+build/resources/main/data/lib/input/subfolder/text.txt includes **simple** 1 times.
+
+build/resources/main/data/lib/input/muh.xml:1,14> really really **simple** simple simple
+build/resources/main/data/lib/input/muh.xml:1,21> really really simple **simple** simple
+build/resources/main/data/lib/input/muh.xml:1,28> really really simple simple **simple**
+build/resources/main/data/lib/input/muh.xml includes **simple** 3 times.
+
+build/resources/main/data/lib/input/empty.txt includes **simple** 0 times.
+
+build/resources/main/data/lib/input/other.txt:2,0> **simple**
+build/resources/main/data/lib/input/other.txt includes **simple** 1 times.
+
+build/resources/main/data/subfolder/ignore/input/test.txt:2,5> very **simple** and extremely simple
+build/resources/main/data/subfolder/ignore/input/test.txt:2,26> very simple and extremely **simple**
+build/resources/main/data/subfolder/ignore/input/test.txt includes **simple** 2 times.
+
+build/resources/main/data/subfolder/ignore/input/subfolder/text.txt:1,4> asdf**simple**asdf
+build/resources/main/data/subfolder/ignore/input/subfolder/text.txt includes **simple** 1 times.
+
+build/resources/main/data/subfolder/ignore/input/muh.xml:1,14> really really **simple** simple simple
+build/resources/main/data/subfolder/ignore/input/muh.xml:1,21> really really simple **simple** simple
+build/resources/main/data/subfolder/ignore/input/muh.xml:1,28> really really simple simple **simple**
+build/resources/main/data/subfolder/ignore/input/muh.xml includes **simple** 3 times.
+
+build/resources/main/data/subfolder/ignore/input/empty.txt includes **simple** 0 times.
+
+build/resources/main/data/subfolder/ignore/input/other.txt:2,0> **simple**
+build/resources/main/data/subfolder/ignore/input/other.txt includes **simple** 1 times.
+
+build/resources/main/data/subfolder/text.txt:1,4> asdf**simple**asdf
+build/resources/main/data/subfolder/text.txt includes **simple** 1 times.
+
+build/resources/main/data/muh.xml:1,14> really really **simple** simple simple
+build/resources/main/data/muh.xml:1,21> really really simple **simple** simple
+build/resources/main/data/muh.xml:1,28> really really simple simple **simple**
+build/resources/main/data/muh.xml includes **simple** 3 times.
+
+build/resources/main/data/empty.txt includes **simple** 0 times.
+
+build/resources/main/data/other.txt:2,0> **simple**
+build/resources/main/data/other.txt includes **simple** 1 times.
+
+README.md includes **simple** 0 times.
+
+settings.gradle includes **simple** 0 times.
+
+The project includes **simple** 67 times.
